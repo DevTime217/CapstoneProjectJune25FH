@@ -8,14 +8,16 @@ Each user has their own list.
 
 How to Run Locally:
 1. Clone project.
-2. Setup MySQL database:
+   * git clone https://github.com/DevTime217/CapstoneProjectJune25FH.git
+   * cd CapstoneProjectJune25FH
+3. Setup MySQL database:
    * Open MySQL Workbench
    * run books_db.sql
-3. Configure config.properties:
+4. Configure config.properties:
    * url=jdbc:mysql://localhost:3306/books_db
    * username=your_mysql_user
    * password=your_mysql_password
-4. Run App.java
+5. Run App.java
 
 Technologies Used:
 * Java 24
