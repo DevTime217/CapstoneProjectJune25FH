@@ -20,7 +20,7 @@ How to Run Locally:
 5. Run App.java
 
 Technologies Used:
-* Java 24
+* Java 17
 * JDBC
 * Maven
 * MySQL (local instance)
