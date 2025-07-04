@@ -1,7 +1,7 @@
 package com.cognixia.fh.capstone;
 
 /**
- * Hello world!
+ * Book Tracker Application
  *
  */
 public class App 
