@@ -19,6 +19,10 @@ How to Run Locally:
    * password=your_mysql_password
 5. Run App.java
 
+How to Use:
+1. Login to Application via Username and Password
+2. Select from Options Available and Follow Instructions
+
 Technologies Used:
 * Java 17
 * JDBC
