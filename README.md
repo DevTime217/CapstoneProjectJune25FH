@@ -13,7 +13,7 @@ How to Run Locally:
 3. Setup MySQL database:
    * Open MySQL Workbench
    * run books_db.sql
-4. Configure config.properties:
+4. Configure resources/config.properties:
    * url=jdbc:mysql://localhost:3306/books_db
    * username=your_mysql_user
    * password=your_mysql_password
