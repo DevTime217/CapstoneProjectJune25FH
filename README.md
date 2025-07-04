@@ -1,4 +1,4 @@
-# CapstoneProjectJune25FH
+# CapstoneProjectJune25FH - Book Tracker Application
 
 Capstone Project for Cognixia Future Horizons Java Certification Course.
 
